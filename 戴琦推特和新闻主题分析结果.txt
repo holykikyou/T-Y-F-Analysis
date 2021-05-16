@@ -1,0 +1,21 @@
+十次主题分析结果
+打印所有主题，每个主题显示5个词:
+[(0, '0.003*"workers" + 0.003*"trade" + 0.003*"climate" + 0.003*"change" + 0.003*"agenda"'), (1, '0.004*"trade" + 0.004*"policy" + 0.003*"challenges" + 0.003*"race" + 0.003*"wto"'), (2, '0.005*"extraordinary" + 0.003*"trade" + 0.003*"ready" + 0.003*"representative" + 0.003*"301"'), (3, '0.004*"climate" + 0.004*"economic" + 0.004*"change" + 0.003*"shared" + 0.003*"trade"')]
+打印所有主题，每个主题显示5个词:
+[(0, '0.004*"reform" + 0.004*"trade" + 0.003*"ready" + 0.003*"anh" + 0.003*"wto"'), (1, '0.005*"pandemic" + 0.005*"trade" + 0.004*"vaccine" + 0.004*"covid19" + 0.004*"production"'), (2, '0.003*"equity" + 0.003*"trade" + 0.003*"sarah" + 0.003*"environmental" + 0.003*"innovation"'), (3, '0.004*"key" + 0.004*"president" + 0.004*"partners" + 0.003*"collective" + 0.003*"trading"')]
+打印所有主题，每个主题显示5个词:
+[(0, '0.004*"trade" + 0.004*"representative" + 0.003*"wto" + 0.003*"virtually" + 0.003*"speak"'), (1, '0.004*"trade" + 0.003*"climate" + 0.003*"administration" + 0.003*"covid19" + 0.003*"policy"'), (2, '0.004*"policy" + 0.004*"trade" + 0.004*"sarah" + 0.003*"agreed" + 0.003*"solution"'), (3, '0.003*"potus" + 0.003*"extraordinary" + 0.003*"agenda" + 0.003*"climate" + 0.003*"president"')]
+打印所有主题，每个主题显示5个词:
+[(0, '0.004*"pandemic" + 0.003*"list" + 0.003*"production" + 0.003*"challenges" + 0.003*"deputy"'), (1, '0.004*"extraordinary" + 0.003*"economic" + 0.003*"days" + 0.003*"excited" + 0.003*"race"'), (2, '0.005*"climate" + 0.005*"trade" + 0.004*"minister" + 0.004*"change" + 0.003*"equity"'), (3, '0.004*"rights" + 0.004*"representative" + 0.004*"agreement" + 0.003*"virtually" + 0.003*"intellectual"')]
+打印所有主题，每个主题显示5个词:
+[(0, '0.003*"trade" + 0.003*"change" + 0.003*"opportunities" + 0.003*"climate" + 0.003*"bold"'), (1, '0.004*"climate" + 0.004*"president" + 0.004*"trade" + 0.003*"policy" + 0.003*"sarah"'), (2, '0.004*"race" + 0.004*"production" + 0.003*"vaccine" + 0.003*"trade" + 0.003*"priority"'), (3, '0.004*"extraordinary" + 0.004*"covid19" + 0.004*"pandemic" + 0.003*"trade" + 0.003*"administration"')]
+打印所有主题，每个主题显示5个词:
+[(0, '0.004*"trading" + 0.004*"partners" + 0.004*"trade" + 0.003*"virtual" + 0.003*"301"'), (1, '0.003*"pandemic" + 0.003*"communication" + 0.003*"critical" + 0.003*"community" + 0.003*"policy"'), (2, '0.003*"opportunities" + 0.003*"climate" + 0.003*"leadersclimatesummit" + 0.003*"shared" + 0.003*"create"'), (3, '0.005*"trade" + 0.004*"agreement" + 0.004*"covid19" + 0.004*"pandemic" + 0.004*"representative"')]
+打印所有主题，每个主题显示5个词:
+[(0, '0.004*"minister" + 0.004*"trading" + 0.003*"virtual" + 0.003*"trade" + 0.003*"partners"'), (1, '0.004*"trade" + 0.004*"covid19" + 0.003*"representative" + 0.003*"administration" + 0.003*"vaccines"'), (2, '0.004*"trade" + 0.004*"production" + 0.003*"pandemic" + 0.003*"practices" + 0.003*"vaccine"'), (3, '0.004*"extraordinary" + 0.004*"climate" + 0.004*"crisis" + 0.003*"race" + 0.003*"planet"')]
+打印所有主题，每个主题显示5个词:
+[(0, '0.004*"301" + 0.003*"president" + 0.003*"annual" + 0.003*"protection" + 0.003*"domestic"'), (1, '0.004*"shared" + 0.004*"trade" + 0.004*"policy" + 0.004*"commitment" + 0.003*"reform"'), (2, '0.004*"trade" + 0.003*"planet" + 0.003*"race" + 0.003*"representative" + 0.003*"covid19"'), (3, '0.004*"climate" + 0.004*"minister" + 0.004*"change" + 0.003*"extraordinary" + 0.003*"trade"')]
+打印所有主题，每个主题显示5个词:
+[(0, '0.004*"policy" + 0.004*"climate" + 0.004*"covid19" + 0.004*"pandemic" + 0.003*"tackle"'), (1, '0.004*"trade" + 0.003*"climate" + 0.003*"change" + 0.003*"deputy" + 0.003*"partners"'), (2, '0.003*"priority" + 0.003*"rights" + 0.003*"list" + 0.003*"trade" + 0.003*"vaccine"'), (3, '0.005*"trade" + 0.004*"minister" + 0.003*"agreement" + 0.003*"issues" + 0.003*"wto"')]
+打印所有主题，每个主题显示5个词:
+[(0, '0.005*"wto" + 0.005*"trade" + 0.005*"production" + 0.004*"pandemic" + 0.004*"covid19"'), (1, '0.003*"policy" + 0.003*"equity" + 0.003*"concerns" + 0.003*"bilateral" + 0.003*"discrimination"'), (2, '0.004*"trade" + 0.003*"leadership" + 0.003*"extraordinary" + 0.003*"climate" + 0.003*"issues"'), (3, '0.004*"climate" + 0.003*"change" + 0.003*"priority" + 0.003*"ready" + 0.003*"partners"')]
